@@ -1,2 +1,2 @@
-# PortfolioWebsite
-The source code for my portfolio website. This will soon be hosted on AdamManuel.tech using namecheap and IBM. 
+# Portfolio Website Documentation
+The source code for my portfolio website.
